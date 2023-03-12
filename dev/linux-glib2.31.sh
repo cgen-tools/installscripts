@@ -9,7 +9,10 @@ HOMEDIR=`eval echo ~`
 #  HOMEDIR=`eval echo ~`
 #fi
 
-
+echo WARNING: We do not provide support for this version of the game.
+echo This is a development version of the game, and is not guaranteed to work.
+echo If you encounter any issues, please switch to the stable version.
+echo
 echo Assuming homedir is $HOMEDIR
 echo
 echo
