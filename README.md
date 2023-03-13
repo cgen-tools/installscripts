@@ -1,6 +1,6 @@
 # Linux
 
-## Developer buids
+## Developer builds
 <sup>WARNING: We do not provide support for this version of the game.
 This is a development version of the game, and is not guaranteed to work.
 If you encounter any issues, please switch to the stable version.</sup>
