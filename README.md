@@ -7,6 +7,8 @@ If you encounter any issues, please switch to the stable version.</sup>
 
 Glibc v2.31:
 
+<sup>Use this for chromebook!</sup>
+
 `/bin/bash -c "$(curl -fsSL https://cgen-tools.github.io/installscripts/dev/linux-glib2.31.sh)"`
 
 Glibc v2.35:
