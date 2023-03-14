@@ -15,6 +15,22 @@ Glibc v2.35:
 
 `/bin/bash -c "$(curl -fsSL https://cgen-tools.github.io/installscripts/dev/linux-glib2.35.sh)"`
 
+
+
+
+
+
+
+
+
+
+# THESE DO NOT WORK YET, DO NOT RUN THEM
+# THESE DO NOT WORK YET, DO NOT RUN THEM
+# THESE DO NOT WORK YET, DO NOT RUN THEM
+# THESE DO NOT WORK YET, DO NOT RUN THEM
+# THESE DO NOT WORK YET, DO NOT RUN THEM
+# THESE DO NOT WORK YET, DO NOT RUN THEM
+
 ## Stable builds
 <sup>This is the recommended version of the game to play.</sup>
 
