@@ -24,23 +24,19 @@ Glibc v2.35:
 
 
 
-# THESE DO NOT WORK YET, DO NOT RUN THEM
-# THESE DO NOT WORK YET, DO NOT RUN THEM
-# THESE DO NOT WORK YET, DO NOT RUN THEM
-# THESE DO NOT WORK YET, DO NOT RUN THEM
-# THESE DO NOT WORK YET, DO NOT RUN THEM
-# THESE DO NOT WORK YET, DO NOT RUN THEM
+## These scrips do not work yet, do not run them
 
-## Stable builds
-<sup>This is the recommended version of the game to play.</sup>
+~~## Stable builds~~
 
-Glibc v2.31:
+~~<sup>This is the recommended version of the game to play.</sup>~~
 
-`/bin/bash -c "$(curl -fsSL https://cgen-tools.github.io/installscripts/stable/linux-glib2.31.sh)"`
+~~Glibc v2.31:~~
 
-Glibc v2.35:
+~~`/bin/bash -c "$(curl -fsSL https://cgen-tools.github.io/installscripts/stable/linux-glib2.31.sh)"`~~
 
-`/bin/bash -c "$(curl -fsSL https://cgen-tools.github.io/installscripts/stable/linux-glib2.35.sh)"`
+~~Glibc v2.35:~~
+
+~~`/bin/bash -c "$(curl -fsSL https://cgen-tools.github.io/installscripts/stable/linux-glib2.35.sh)"`~~
 
 
-# Windows
+~~# Windows~~
