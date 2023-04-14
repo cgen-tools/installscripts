@@ -30,7 +30,7 @@ else
     echo Downloading the game
     echo
     echo
-    wget https://clangen.io/api/v1/Update/Channels/development/Releases/Latest/Artifacts/linux2.31 -O Clangen_Linux64_glibc2.31+.tar.xz.zip
+    wget https://clangen.io/api/v1/Update/Channels/development/Releases/Latest/Artifacts/linux2.31
     echo
     echo
     echo
