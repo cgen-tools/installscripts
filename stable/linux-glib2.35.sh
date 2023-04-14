@@ -26,13 +26,11 @@ else
     echo Downloading the game
     echo
     echo
-    wget https://clangen.io/api/v1/Update/Channels/stable/Releases/Latest/Artifacts/linux2.35 -O Clangen_Linux64_glibc2.35+.tar.xz.zip
+    wget https://clangen.io/api/v1/Update/Channels/stable/Releases/Latest/Artifacts/linux2.35 -O Clangen_Linux64_glibc2.35+.tar.xz
     echo
     echo
     echo
     echo Unzipping...
-    unzip Clangen_Linux64_glibc2.35+.tar.xz.zip
-    echo Unzipping a second time...
     tar -xf Clangen_Linux64_glibc2.35+.tar.xz
     echo Deleting temporary files
     rm Clangen_Linux64_glibc2.35+.tar.xz.zip Clangen_Linux64_glibc2.35+.tar.xz
