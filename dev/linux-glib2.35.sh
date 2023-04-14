@@ -37,7 +37,7 @@ else
     echo Unzipping...
     tar -xf Clangen_Linux64_glibc2.35+.tar.xz
     echo Deleting temporary files
-    rm Clangen_Linux64_glibc2.35+.tar.xz.zip Clangen_Linux64_glibc2.35+.tar.xz
+    rm Clangen_Linux64_glibc2.35+.tar.xz
 
     echo If you want to run the game again without redownloading, the command is as follows:
     echo $HOMEDIR/Clangen/Clangen
