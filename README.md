@@ -1,4 +1,17 @@
-# Linux
+# Linux / Chromebook
+
+
+## Developer builds
+Glibc v2.31:
+
+<sup>Use this for chromebook!</sup>
+
+`/bin/bash -c "$(curl -fsSL https://install.clangen.io/stable/linux-glib2.31.sh)"`
+
+Glibc v2.35:
+
+`/bin/bash -c "$(curl -fsSL https://install.clangen.io/stable/linux-glib2.35.sh)"`
+
 
 ## Developer builds
 <sup>WARNING: We do not provide support for this version of the game.
@@ -9,34 +22,8 @@ Glibc v2.31:
 
 <sup>Use this for chromebook!</sup>
 
-`/bin/bash -c "$(curl -fsSL https://cgen-tools.github.io/installscripts/dev/linux-glib2.31.sh)"`
+`/bin/bash -c "$(curl -fsSL https://install.clangen.io/dev/linux-glib2.31.sh)"`
 
 Glibc v2.35:
 
-`/bin/bash -c "$(curl -fsSL https://cgen-tools.github.io/installscripts/dev/linux-glib2.35.sh)"`
-
-
-
-
-
-
-
-
-
-
-## These scrips do not work yet, do not run them
-
-~~## Stable builds~~
-
-~~<sup>This is the recommended version of the game to play.</sup>~~
-
-~~Glibc v2.31:~~
-
-~~`/bin/bash -c "$(curl -fsSL https://cgen-tools.github.io/installscripts/stable/linux-glib2.31.sh)"`~~
-
-~~Glibc v2.35:~~
-
-~~`/bin/bash -c "$(curl -fsSL https://cgen-tools.github.io/installscripts/stable/linux-glib2.35.sh)"`~~
-
-
-~~# Windows~~
+`/bin/bash -c "$(curl -fsSL https://install.clangen.io/dev/linux-glib2.35.sh)"`
