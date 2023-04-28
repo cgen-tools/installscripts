@@ -1,7 +1,7 @@
 # Linux / Chromebook
 
 
-## Developer builds
+## Stable builds
 Glibc v2.31:
 
 <sup>Use this for chromebook!</sup>
