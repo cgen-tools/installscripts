@@ -34,9 +34,15 @@ else
     tar -xf Clangen_Linux64_glibc2.31+.tar.xz
     echo Deleting temporary files
     rm Clangen_Linux64_glibc2.31+.tar.xz
-
-    echo If you want to run the game again without redownloading, the command is as follows:
-    echo $HOMEDIR/Clangen/Clangen
+    echo Adding 'clangen' to path.
+    export PATH=$PATH:~/bin/
+    echo 'export PATH=$PATH:~/bin/' >> ~/.bashrc
+    mkdir ~/bin
+    echo \#!/bin/bash > ~/bin/clangen
+    echo ~/Clangen/Clangen >> ~/bin/clangen
+    chmod +x ~/bin/clangen
+    cp ~/bin/clangen ~/bin/Clangen
+    echo If you want to run the game again without redownloading, just type \'clangen\' without the quotes!
     echo Running the game!!!
-    cd Clangen && ./Clangen
+    clangen
 fi
